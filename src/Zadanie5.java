@@ -1,0 +1,27 @@
+public class Zadanie5 {
+    /*
+    program ma wypisać kolejne liczby od 1 do 100
+    jeżeli liczba jest podzielna przez 3 ma dopisać do niej "Fizz"
+    jeżeli jest podzielna przez 5 ma dopisać do niej "Buzz"
+    jeżeli jest podzielna przez 3 i 5 jednocześnie to ma dpoisać "Fizz Buzz"
+    1
+    2
+    3 Fizz
+    4
+    5 Buzz
+    6 Fizz
+    7
+    8
+    9 Fizz
+    10 Buzz
+    11
+    12 Fizz
+    13
+    14
+    15 Fizz Buzz
+    16 ..
+     */
+    public static void main(String[] args) {
+
+    }
+}
